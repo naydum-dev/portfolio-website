@@ -2,7 +2,7 @@ export const portfolioData = {
   // Personal Information
   name: "Obia Chinedum",
   role: "Full Stack Web Developer",
-  bio: "I'm a passionate self-taught web developer committed to continuous growth and learning. Recently completed Angela Yu's comprehensive Web Development Bootcamp and earned CertiPort HTML and CSS certification. I thrive on building practical solutions and exploring emerging technologies. When I'm not coding, I'm contributing to open-source projects and developing personal applications to refine my craft.",
+  bio: "I'm a passionate self-taught web developer with a strong commitment to continuous learning and growth. Through rigorous online and in-person bootcamps, I've built a solid foundation in modern web technologies and earned industry-recognized certifications including CertiPort HTML and CSS. I leverage AI tools to enhance productivity and stay at the forefront of emerging technologies. My focus is on creating practical, user-centered solutions while actively contributing to open-source projects and refining my skills through hands-on development.",
 
   // Contact Information
   contact: {
